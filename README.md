@@ -2,14 +2,14 @@
 ---
 
 
-##Regra Geral
+## Regra Geral
 
 ```
 <nomeDaTag> Conteúdo </nomeDaTag>
 ```
 
 
-###Boilerplate
+### Boilerplate
 
 Se refere a seções de código que devem ser incluídas em muitos lugares com pouca ou nenhuma alteração.
 
@@ -28,13 +28,13 @@ Se refere a seções de código que devem ser incluídas em muitos lugares com p
 ```
 A declaração <! DOCTYPE> não é uma tag HTML; É uma instrução para o navegador web sobre a versão do HTML em que a página está escrita.
 
-###Comentários
+### Comentários
 
 ```
 <!-- Isso é um comentário em HTML. Nada acontece. -->
 ```
 
-###Tags mais comuns
+### Tags mais comuns
 
 ```
 <h1>Título Principal</h1>
@@ -56,7 +56,7 @@ A declaração <! DOCTYPE> não é uma tag HTML; É uma instrução para o naveg
 </ol>
 ```
 
-###Tags de bloco / Closing Tags
+### Tags de bloco / Closing Tags
 
 ```
 <h1>I need a closing tag </h1>
@@ -64,7 +64,7 @@ A declaração <! DOCTYPE> não é uma tag HTML; É uma instrução para o naveg
 <p>Me too!</p>
 ```
 
-###Tags de linha / Self-closing Tags
+### Tags de linha / Self-closing Tags
 
 ```
 <img src="mulheres.png">
@@ -72,7 +72,7 @@ A declaração <! DOCTYPE> não é uma tag HTML; É uma instrução para o naveg
 <link href="style.css">
 ```
 
-###Atributos
+### Atributos
 Adicionando informações adicionais as Tags
 ```
 <nomeDaTag name="valor"> Conteúdo </nomeDaTag>
@@ -88,7 +88,7 @@ Adicionando informações adicionais as Tags
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
 
-###Imagens
+### Imagens
 
 
 https://scontent.fcgh9-1.fna.fbcdn.net/v/t31.0-8/20818813_10214248206903318_7945386147940749022_o.jpg?oh=6ecb40cd3b3501576e85bdd58824ee3c&oe=59EABA5A
